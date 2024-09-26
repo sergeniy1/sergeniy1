@@ -10,3 +10,16 @@
    cd sergeniy1
    python -m venv venv
    source venv/bin/activate
+
+Запуск приложения
+Запустите приложение:
+
+```bash
+python app.py
+```
+
+Откройте браузер и перейдите по адресу:
+
+```bash
+http://127.0.0.1:5000
+```
